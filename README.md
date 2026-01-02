@@ -164,20 +164,9 @@ The algorithm groups by size first and then uses SHA-256 to eliminate false posi
 
 ---
 
-## 🤝 Contributing
-
-Contributions welcome! Areas for improvement:
-- Additional hash algorithms (MD5, BLAKE3)
-- More selection strategies (by path, by extension)
-- Integration with cloud storage
-- Command-line interface
-- Cross-platform optimizations
-
----
-
 ## 📄 License
 
-MIT License
+GPLv3
 
 ---
 
@@ -195,5 +184,3 @@ MIT License
 ## 👤 Creator
 
 Ben Santora
-
-**Version 2.0 - Parallel processing, preview mode, and export/import functionality**
