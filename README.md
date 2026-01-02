@@ -80,8 +80,6 @@ Build optimized release binary:
 Run the release binary:
     ./target/release/dupe-finder-gui
 
-### Pre-built Binary
-A pre-built optimized binary `dupe-finder-gui` is available in the distribution.
 
 **Notes:**
 * For best performance, use `--release` build
